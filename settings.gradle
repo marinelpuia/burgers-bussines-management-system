@@ -1,3 +1,4 @@
 rootProject.name = 'mpbms'
 include 'core'
+include 'web'
 
