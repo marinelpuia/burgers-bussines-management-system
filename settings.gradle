@@ -1,1 +1,3 @@
 rootProject.name = 'mpbms'
+include 'core'
+
