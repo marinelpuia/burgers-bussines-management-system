@@ -9,5 +9,4 @@ public class MpbmsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MpbmsApplication.class, args);
 	}
-
 }
