@@ -7,6 +7,6 @@ public class DemoServiceImpl implements DemoService{
 
     @Override
     public String getMessage() {
-        return "Hello from the core module";
+        return "Hello from the core module!";
     }
 }
